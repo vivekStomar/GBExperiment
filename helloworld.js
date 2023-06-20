@@ -1,1 +1,1 @@
-alert("HelloWorld!!!")
+alert("I am loading ;)")
